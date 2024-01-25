@@ -1,0 +1,18 @@
+table,th,td{
+
+    border:1px solid rgb(0, 0, 0);
+background-color: lightskyblue
+}
+
+body{
+    background-image: url(https://lh3.googleusercontent.com/p/AF1QipN1rbWf7QXrmERCzVKxzdca16FtSph1MpbT45gN=s680-w680-h510);
+    background-position: top; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+    .box{
+        height: 80px;
+        width: 80px;
+        background: pink;
+        margin: 15px;
+    }
